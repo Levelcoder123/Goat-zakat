@@ -1,0 +1,70 @@
+body{
+background-image:linear-gradient(rgba(0,0,0,0.40),rgba(0,0,0,0.40)), url(goat.jpg);
+background-repeat: no-repeat;
+width: 95%;
+height: 100vh;
+background-position:center ;
+background-size: cover;
+text-align: center;
+background-attachment: fixed;
+}
+
+div.main{
+    width: 620px;
+    margin: 100px auto 0px auto;
+    
+}
+
+div.form-box{
+    
+    background-color:  rgb(0, 0,0,0.5);
+    height: 400px;
+    width: 750px;
+    border-radius: 25px;
+    
+    
+   
+ }
+h1{
+    font-size: 60px;
+    color: white;
+    font-family: Calibri;
+  
+}
+input{
+    font-size: 40px;
+    border-radius: 25px;
+    border-color: aqua;
+    background-color: rgba(0,0,0, 0.2);
+    color: white;
+    text-align: center;
+}
+
+::placeholder{
+    font-size: 30px;
+    color: rgb(175, 173, 173);  
+ }
+
+button{
+    margin-top: 20px;
+    font-size: 40px;
+    background-color: rgba(0,0,0,0.5);
+    border-radius: 25px;
+    
+    color: white;
+    border-color: brown;
+    font-family: Calibri;
+}
+ h2{
+    font-size: 30px;
+    color: white;
+    font-family: Calibri;
+
+
+ }
+
+
+    
+
+
+ 
